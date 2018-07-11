@@ -1,5 +1,5 @@
 {
-  "name": "liri",
+  "name": "LIRI",
   "version": "1.0.0",
   "description": "A Language Interpretation and Recognition Interface similar to SIRI.",
   "main": "keys.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/JMatt21/LIRI.git"
   },
   "keywords": [],
-  "author": "Matthew Bertrandt",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JMatt21/LIRI/issues"
@@ -22,6 +22,5 @@
     "node-spotify-api": "^1.0.7",
     "request": "^2.87.0",
     "twitter": "^1.7.1"
-  },
-  "devDependencies": {}
+  }
 }
